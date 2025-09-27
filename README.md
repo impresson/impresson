@@ -1,5 +1,5 @@
 - 👋 Hi, I’m impresson
-- 👀 I’m interested in batch, html & c
+- 👀 I’m interested in batch, html, rust & c
 - 🌱 I’m currently learning batch, cpp, java & c
 - 💞️ I’m looking to collaborate on scratch
 - 📫 Discord: main - @theofficialpigeon alt: @impresson
