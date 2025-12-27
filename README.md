@@ -1,7 +1,7 @@
 - 👋 Hi, I’m impresson
 - 👀 I’m interested in batch, html, rust & c
-- 🌱 I’m currently learning batch, cpp, java & c
-- 💞️ I’m looking to collaborate on scratch
+- 🌱 I’m currently learning c
+- 💞️ I’m looking to make my own classicube client
 - 📫 Discord: main - @theofficialpigeon alt: @impresson
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like pigeons :)
